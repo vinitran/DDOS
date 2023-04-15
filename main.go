@@ -14,7 +14,7 @@ import (
 	"time"
 )
 
-const link = "https://www.dav.edu.vn/"
+const link = "https://hulkcrypto.com/"
 
 func main() {
 	port, err := freeport.Get()
